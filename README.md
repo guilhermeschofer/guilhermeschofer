@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python & hmtl
 - 💞️ I’m looking to collaborate on new projects 
-- 📫 How to reach me @ft_sira
+- 📫 How to reach me @ft_sirah
 - 😄 Pronouns: ...
 - ⚡ Fun fact: fun fact 
 
